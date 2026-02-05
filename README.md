@@ -1,2 +1,2 @@
 # AI-Research
-This is a research-focused repository. A collection of research projects and experiments in AI/ML, Natural Langauge Processing, and Computer Vision.
+This repository is intended for research and educational purposes only. Models, code, and experiments may not be production-ready.
