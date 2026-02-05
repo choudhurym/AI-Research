@@ -1,2 +1,2 @@
 # AI-Research
-This is a AI Research Group, where different projects will be posted related to AI/ML, NLP, Computer Vision, HealthCare and Life Sciences 
+This is a research-focused repository. A collection of research projects and experiments in AI/ML, Natural Langauge Processing, and Computer Vision.
